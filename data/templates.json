@@ -1,0 +1,786 @@
+[
+ {
+  "name": "Garden Romance",
+  "style": "romantic",
+  "themes": [
+   "wedding",
+   "anniversary",
+   "quinceanera"
+  ],
+  "colors": [
+   "#FBF3EF",
+   "#D98C8C",
+   "#9DB59A",
+   "#3E3A36"
+  ]
+ },
+ {
+  "name": "Golden Arch",
+  "style": "elegant",
+  "themes": [
+   "wedding",
+   "anniversary"
+  ],
+  "colors": [
+   "#FBF8F0",
+   "#2E7D5B",
+   "#C9A55C",
+   "#1F3B2D"
+  ]
+ },
+ {
+  "name": "Boho Arch",
+  "style": "boho",
+  "themes": [
+   "wedding",
+   "baby_shower",
+   "baptism_communion"
+  ],
+  "colors": [
+   "#FBF4EA",
+   "#C8613F",
+   "#E0A96D",
+   "#4A2C22"
+  ]
+ },
+ {
+  "name": "Celestial Arch",
+  "style": "elegant",
+  "themes": [
+   "wedding",
+   "quinceanera",
+   "gender_reveal"
+  ],
+  "colors": [
+   "#101B33",
+   "#D4AF62",
+   "#8FA6D6",
+   "#F6EFDD"
+  ]
+ },
+ {
+  "name": "Rose Polaroids",
+  "style": "playful",
+  "themes": [
+   "birthday",
+   "anniversary",
+   "graduation",
+   "farewell"
+  ],
+  "colors": [
+   "#FBEFF1",
+   "#D3697B",
+   "#E0AB85",
+   "#49272D"
+  ]
+ },
+ {
+  "name": "Summer Polaroids",
+  "style": "playful",
+  "themes": [
+   "birthday",
+   "trip",
+   "farewell",
+   "dinner_gathering"
+  ],
+  "colors": [
+   "#FFD94A",
+   "#3AA0FF",
+   "#FF6B6B",
+   "#1F2A44"
+  ]
+ },
+ {
+  "name": "Film Roll",
+  "style": "modern",
+  "themes": [
+   "birthday",
+   "graduation",
+   "corporate",
+   "trip"
+  ],
+  "colors": [
+   "#0F0F10",
+   "#C9A24B",
+   "#8A7A55",
+   "#F4EBD6"
+  ]
+ },
+ {
+  "name": "Full Bleed Love",
+  "style": "romantic",
+  "themes": [
+   "wedding",
+   "anniversary",
+   "farewell"
+  ],
+  "colors": [
+   "#541C25",
+   "#E9C267",
+   "#D6A085",
+   "#F7EFE2"
+  ]
+ },
+ {
+  "name": "Sunset Hero",
+  "style": "modern",
+  "themes": [
+   "trip",
+   "birthday",
+   "dinner_gathering",
+   "year_end_party"
+  ],
+  "colors": [
+   "#54381C",
+   "#E9C267",
+   "#D6D685",
+   "#F7EFE2"
+  ]
+ },
+ {
+  "name": "Modern Hero",
+  "style": "minimalist",
+  "themes": [
+   "corporate",
+   "graduation",
+   "baptism_communion"
+  ],
+  "colors": [
+   "#F1F2F3",
+   "#4059BF",
+   "#9CA5C9",
+   "#1C1D22"
+  ]
+ },
+ {
+  "name": "Twin Moons",
+  "style": "romantic",
+  "themes": [
+   "wedding",
+   "baby_shower",
+   "gender_reveal",
+   "anniversary"
+  ],
+  "colors": [
+   "#F9DCED",
+   "#CC338A",
+   "#E278E1",
+   "#5C2344"
+  ]
+ },
+ {
+  "name": "Sage Circles",
+  "style": "botanical",
+  "themes": [
+   "wedding",
+   "baby_shower",
+   "dinner_gathering",
+   "baptism_communion"
+  ],
+  "colors": [
+   "#EAF0EC",
+   "#539368",
+   "#7AB8A8",
+   "#26402F"
+  ]
+ },
+ {
+  "name": "Ocean Circles",
+  "style": "modern",
+  "themes": [
+   "trip",
+   "birthday",
+   "graduation",
+   "farewell"
+  ],
+  "colors": [
+   "#F2FAFB",
+   "#FF7F6B",
+   "#1B8FA3",
+   "#0F3B4A"
+  ]
+ },
+ {
+  "name": "Photo Grid Party",
+  "style": "playful",
+  "themes": [
+   "birthday",
+   "graduation",
+   "year_end_party",
+   "farewell"
+  ],
+  "colors": [
+   "#FFFFFF",
+   "#ED45A4",
+   "#A8E755",
+   "#4D1936"
+  ]
+ },
+ {
+  "name": "Grid & Gold",
+  "style": "elegant",
+  "themes": [
+   "wedding",
+   "anniversary",
+   "corporate",
+   "year_end_party"
+  ],
+  "colors": [
+   "#FFFDF8",
+   "#CF9F30",
+   "#3D4E8F",
+   "#171D36"
+  ]
+ },
+ {
+  "name": "Little Grid",
+  "style": "kids",
+  "themes": [
+   "baby_shower",
+   "birthday",
+   "gender_reveal",
+   "baptism_communion"
+  ],
+  "colors": [
+   "#EFF6FB",
+   "#69A9D3",
+   "#8586E0",
+   "#273B49"
+  ]
+ },
+ {
+  "name": "Magazine",
+  "style": "editorial",
+  "themes": [
+   "wedding",
+   "anniversary",
+   "corporate",
+   "graduation"
+  ],
+  "colors": [
+   "#FBF6EE",
+   "#AC394D",
+   "#D37E69",
+   "#422429"
+  ]
+ },
+ {
+  "name": "Studio Split",
+  "style": "modern",
+  "themes": [
+   "corporate",
+   "graduation",
+   "year_end_party",
+   "birthday"
+  ],
+  "colors": [
+   "#F1F2F3",
+   "#4059BF",
+   "#9CA5C9",
+   "#1C1D22"
+  ]
+ },
+ {
+  "name": "Botanical Journal",
+  "style": "botanical",
+  "themes": [
+   "baby_shower",
+   "wedding",
+   "baptism_communion",
+   "dinner_gathering"
+  ],
+  "colors": [
+   "#FBF6EE",
+   "#73AC39",
+   "#77D369",
+   "#334224"
+  ]
+ },
+ {
+  "name": "Ceremony Frame",
+  "style": "classic",
+  "themes": [
+   "wedding",
+   "anniversary",
+   "baptism_communion",
+   "quinceanera"
+  ],
+  "colors": [
+   "#0F0F10",
+   "#C9A24B",
+   "#8A7A55",
+   "#F4EBD6"
+  ]
+ },
+ {
+  "name": "Royal Frame",
+  "style": "classic",
+  "themes": [
+   "quinceanera",
+   "wedding",
+   "anniversary"
+  ],
+  "colors": [
+   "#FFF4F6",
+   "#B5245B",
+   "#F29CB4",
+   "#4A1730"
+  ]
+ },
+ {
+  "name": "Ivory Frame",
+  "style": "classic",
+  "themes": [
+   "baptism_communion",
+   "wedding",
+   "anniversary",
+   "corporate"
+  ],
+  "colors": [
+   "#FFFDF8",
+   "#CF9F30",
+   "#8F7C3D",
+   "#362E17"
+  ]
+ },
+ {
+  "name": "Balloon Bash",
+  "style": "kids",
+  "themes": [
+   "birthday",
+   "baby_shower",
+   "gender_reveal"
+  ],
+  "colors": [
+   "#FFD94A",
+   "#3AA0FF",
+   "#FF6B6B",
+   "#1F2A44"
+  ]
+ },
+ {
+  "name": "Confetti Night",
+  "style": "playful",
+  "themes": [
+   "birthday",
+   "year_end_party",
+   "graduation",
+   "farewell"
+  ],
+  "colors": [
+   "#1B122B",
+   "#9E74E7",
+   "#ED82EA",
+   "#F2F0F5"
+  ]
+ },
+ {
+  "name": "Candy Party",
+  "style": "kids",
+  "themes": [
+   "birthday",
+   "baby_shower",
+   "quinceanera"
+  ],
+  "colors": [
+   "#FFFFFF",
+   "#ED45A4",
+   "#A8E755",
+   "#4D1936"
+  ]
+ },
+ {
+  "name": "Neon Vivid",
+  "style": "modern",
+  "themes": [
+   "birthday",
+   "year_end_party",
+   "graduation"
+  ],
+  "colors": [
+   "#6B25E4",
+   "#FB56E7",
+   "#BFEF6C",
+   "#FFFFFF"
+  ]
+ },
+ {
+  "name": "Quiet Edit",
+  "style": "minimalist",
+  "themes": [
+   "wedding",
+   "corporate",
+   "dinner_gathering",
+   "anniversary"
+  ],
+  "colors": [
+   "#F3F3F1",
+   "#BFA240",
+   "#C9BF9C",
+   "#22201C"
+  ]
+ },
+ {
+  "name": "Sand Minimal",
+  "style": "minimalist",
+  "themes": [
+   "wedding",
+   "baby_shower",
+   "baptism_communion",
+   "trip"
+  ],
+  "colors": [
+   "#F0EFEA",
+   "#938453",
+   "#ACB87A",
+   "#403A26"
+  ]
+ },
+ {
+  "name": "Scrapbook Love",
+  "style": "playful",
+  "themes": [
+   "wedding",
+   "anniversary",
+   "birthday",
+   "farewell"
+  ],
+  "colors": [
+   "#FBF1EF",
+   "#D37E69",
+   "#E0CD85",
+   "#492E27"
+  ]
+ },
+ {
+  "name": "Memory Board",
+  "style": "playful",
+  "themes": [
+   "graduation",
+   "farewell",
+   "trip",
+   "birthday"
+  ],
+  "colors": [
+   "#FFFFFF",
+   "#EDC645",
+   "#55E7C5",
+   "#4D4119"
+  ]
+ },
+ {
+  "name": "Garden Scrapbook",
+  "style": "botanical",
+  "themes": [
+   "baby_shower",
+   "baptism_communion",
+   "dinner_gathering"
+  ],
+  "colors": [
+   "#EFFBF3",
+   "#69D38C",
+   "#85E0D9",
+   "#274932"
+  ]
+ },
+ {
+  "name": "Love Story",
+  "style": "romantic",
+  "themes": [
+   "wedding",
+   "anniversary",
+   "quinceanera"
+  ],
+  "colors": [
+   "#FBF6EE",
+   "#AC394D",
+   "#D37E69",
+   "#422429"
+  ]
+ },
+ {
+  "name": "Family Album",
+  "style": "warm",
+  "themes": [
+   "baby_shower",
+   "baptism_communion",
+   "birthday",
+   "anniversary"
+  ],
+  "colors": [
+   "#FBF6EE",
+   "#AC5039",
+   "#D3A569",
+   "#422A24"
+  ]
+ },
+ {
+  "name": "Adventure Journal",
+  "style": "modern",
+  "themes": [
+   "trip",
+   "birthday",
+   "graduation"
+  ],
+  "colors": [
+   "#16281F",
+   "#C9B27C",
+   "#7FA88B",
+   "#F1E9D6"
+  ]
+ },
+ {
+  "name": "Bento Bloom",
+  "style": "modern",
+  "themes": [
+   "birthday",
+   "baby_shower",
+   "graduation",
+   "corporate"
+  ],
+  "colors": [
+   "#FFFDF8",
+   "#CF9F30",
+   "#8F3D6B",
+   "#361728"
+  ]
+ },
+ {
+  "name": "Bento Kids",
+  "style": "kids",
+  "themes": [
+   "birthday",
+   "baby_shower",
+   "gender_reveal"
+  ],
+  "colors": [
+   "#FFFFFF",
+   "#45EDD6",
+   "#D355E7",
+   "#194D46"
+  ]
+ },
+ {
+  "name": "Poster Bold",
+  "style": "modern",
+  "themes": [
+   "corporate",
+   "year_end_party",
+   "graduation",
+   "birthday"
+  ],
+  "colors": [
+   "#FFD94A",
+   "#3AA0FF",
+   "#FF6B6B",
+   "#1F2A44"
+  ]
+ },
+ {
+  "name": "Poster Sunset",
+  "style": "modern",
+  "themes": [
+   "birthday",
+   "trip",
+   "year_end_party",
+   "farewell"
+  ],
+  "colors": [
+   "#E44B25",
+   "#FBF256",
+   "#6CD5EF",
+   "#FFFFFF"
+  ]
+ },
+ {
+  "name": "Poster Noir",
+  "style": "modern",
+  "themes": [
+   "corporate",
+   "year_end_party",
+   "dinner_gathering"
+  ],
+  "colors": [
+   "#0F0F10",
+   "#C9A24B",
+   "#8A7A55",
+   "#F4EBD6"
+  ]
+ },
+ {
+  "name": "Starry Night",
+  "style": "magical",
+  "themes": [
+   "gender_reveal",
+   "baby_shower",
+   "wedding",
+   "quinceanera"
+  ],
+  "colors": [
+   "#12172B",
+   "#748BE7",
+   "#B482ED",
+   "#F0F1F5"
+  ]
+ },
+ {
+  "name": "Moonlight Dinner",
+  "style": "magical",
+  "themes": [
+   "dinner_gathering",
+   "anniversary",
+   "year_end_party",
+   "corporate"
+  ],
+  "colors": [
+   "#0F0F10",
+   "#C9A24B",
+   "#8A7A55",
+   "#F4EBD6"
+  ]
+ },
+ {
+  "name": "Little Star",
+  "style": "kids",
+  "themes": [
+   "baby_shower",
+   "birthday",
+   "gender_reveal",
+   "baptism_communion"
+  ],
+  "colors": [
+   "#1B122B",
+   "#9E74E7",
+   "#ED82EA",
+   "#F2F0F5"
+  ]
+ },
+ {
+  "name": "Palm Paradise",
+  "style": "tropical",
+  "themes": [
+   "trip",
+   "birthday",
+   "dinner_gathering",
+   "farewell"
+  ],
+  "colors": [
+   "#FFFFFF",
+   "#45EDD6",
+   "#D355E7",
+   "#194D46"
+  ]
+ },
+ {
+  "name": "Tropical Bloom",
+  "style": "tropical",
+  "themes": [
+   "wedding",
+   "trip",
+   "birthday",
+   "baby_shower"
+  ],
+  "colors": [
+   "#FFF5EF",
+   "#F08A6B",
+   "#2F8F9D",
+   "#173F46"
+  ]
+ },
+ {
+  "name": "Island Luau",
+  "style": "tropical",
+  "themes": [
+   "birthday",
+   "year_end_party",
+   "graduation",
+   "trip"
+  ],
+  "colors": [
+   "#25E465",
+   "#56EDFB",
+   "#EF6CC3",
+   "#FFFFFF"
+  ]
+ },
+ {
+  "name": "Lavender Dream",
+  "style": "romantic",
+  "themes": [
+   "quinceanera",
+   "baby_shower",
+   "wedding",
+   "baptism_communion"
+  ],
+  "colors": [
+   "#F7F4FD",
+   "#8E7CC3",
+   "#7BCBB0",
+   "#37305A"
+  ]
+ },
+ {
+  "name": "Peach Polaroids",
+  "style": "warm",
+  "themes": [
+   "baby_shower",
+   "birthday",
+   "baptism_communion",
+   "dinner_gathering"
+  ],
+  "colors": [
+   "#FFF5EF",
+   "#F08A6B",
+   "#2F8F9D",
+   "#173F46"
+  ]
+ },
+ {
+  "name": "Emerald Night",
+  "style": "elegant",
+  "themes": [
+   "wedding",
+   "corporate",
+   "year_end_party",
+   "anniversary"
+  ],
+  "colors": [
+   "#1C542F",
+   "#E9C267",
+   "#85D6C9",
+   "#F7EFE2"
+  ]
+ },
+ {
+  "name": "Year in Review",
+  "style": "modern",
+  "themes": [
+   "year_end_party",
+   "corporate",
+   "farewell",
+   "dinner_gathering"
+  ],
+  "colors": [
+   "#101B33",
+   "#D4AF62",
+   "#8FA6D6",
+   "#F6EFDD"
+  ]
+ },
+ {
+  "name": "Cherry Blossom",
+  "style": "romantic",
+  "themes": [
+   "wedding",
+   "quinceanera",
+   "baby_shower",
+   "anniversary"
+  ],
+  "colors": [
+   "#FBF6EE",
+   "#AC397A",
+   "#D3697E",
+   "#422435"
+  ]
+ }
+]

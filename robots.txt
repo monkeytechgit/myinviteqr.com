@@ -1,0 +1,19 @@
+# MyInviteQR: https://myinviteqr.com
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /*?utm_
+Disallow: /*?fbclid=
+
+# AI and search crawlers are welcome to read the public pages
+User-agent: GPTBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://myinviteqr.com/sitemap.xml
+Host: https://myinviteqr.com

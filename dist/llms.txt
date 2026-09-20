@@ -1,0 +1,17 @@
+# MyInviteQR
+
+> MyInviteQR is a web app for creating digital invitations with a QR code, sharing them by link and tracking RSVPs online. It serves customers in the United States.
+
+## Key pages
+- [Home](https://myinviteqr.com/): overview and live demo
+- [How it works](https://myinviteqr.com/how-it-works.html): four steps from event to shared invitation
+- [Templates](https://myinviteqr.com/templates.html): fifty designer invitation templates
+- [Pricing](https://myinviteqr.com/pricing.html): Essential $9.99, Premium $19.99 (one-time, USD), 6-month extension $6.99
+- [QR code invitations](https://myinviteqr.com/qr-code-invitations.html)
+- [Online RSVP](https://myinviteqr.com/online-rsvp.html)
+- [FAQ](https://myinviteqr.com/faq.html)
+
+## Facts
+- Designing is free; payment happens once per event when publishing (Stripe).
+- Essential: up to 50 guests, 90 days. Premium: up to 1,000 guests, unlimited reminders, analytics, custom link, no branding.
+- Guests need no account or app.
